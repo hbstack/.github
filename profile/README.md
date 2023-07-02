@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/127904984?s=200" alt="Hugo Bootstrap Framework Logo" width="200" height="200">
   <h1>Hugo Bootstrap Framework</h1>
-  <p>Hi there 👏! Welcome to Hugo Bootstrap Framework</p>
+  <p>👏 Hi there! Welcome to Hugo Bootstrap Framework</p>
 </div>
 
 ## Introduction
