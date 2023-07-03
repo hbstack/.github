@@ -14,7 +14,9 @@ HB is a modular framework built on top of Hugo and Bootstrap CSS, it ships with 
 - [Ask questions](https://github.com/orgs/hbstack/discussions/new?category=q-a).
 - [Share ideas](https://github.com/orgs/hbstack/discussions/new?category=ideas).
 - [File issues or bugs](https://github.com/orgs/hbstack/discussions/new?category=issues-and-bugs).
+- Please consider giving the project a star ⭐ if you like it.
 
+<!--
 ## Pinned Projects
 
 Please consider giving it a star ⭐ if you like the projects.
@@ -25,3 +27,4 @@ Please consider giving it a star ⭐ if you like the projects.
 [![HB Docs Module](https://github-readme-stats.vercel.app/api/pin/?username=hbstack&repo=docs)](https://github.com/hbstack/docs)
 [![HB Header Module](https://github-readme-stats.vercel.app/api/pin/?username=hbstack&repo=header)](https://github.com/hbstack/header)
 [![HB Footer Module](https://github-readme-stats.vercel.app/api/pin/?username=hbstack&repo=footer)](https://github.com/hbstack/footer)
+-->
