@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/127904984?s=200" alt="Hugo Bootstrap Framework Logo" width="200" height="200">
+  <!--<img src="https://avatars.githubusercontent.com/u/127904984?s=200" alt="Hugo Bootstrap Framework Logo" width="200" height="200">-->
   <h1>Hugo Bootstrap Framework</h1>
   <p>👏 Hi there! Welcome to Hugo Bootstrap Framework</p>
   <img src="https://hbstack.dev/images/banners/home.svg" alt="Hugo Bootstrap Framework Logo" width="100%" height="auto">
