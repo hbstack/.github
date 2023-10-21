@@ -21,7 +21,7 @@ HB is a modular framework built on top of Hugo and Bootstrap CSS, it ships with 
   1. [Follow us on Mastodon](https://techhub.social/@hbstack)
   1. [Latest articles](https://hbstack.dev/en/index.xml) RSS feed
   1. [Latest releases](https://hbstack.dev/en/releases/index.xml) RSS feed
-- ❤️ Financial support via [PayPal](https://www.paypal.com/paypalme/razonyang) and [Ko-fi](https://ko-fi.com/razonyang).
+- ❤️ Financial support via [PayPal](https://www.paypal.com/paypalme/razonyang) and [GitHub Sponsors](https://github.com/sponsors/razonyang).
 
 <!--
 ## Pinned Projects
