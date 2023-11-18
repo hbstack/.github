@@ -24,14 +24,14 @@ HB is a modular framework built on top of Hugo and Bootstrap CSS, it ships with 
 - ❤️ Financial support via [PayPal](https://www.paypal.com/paypalme/razonyang) and [GitHub Sponsors](https://github.com/sponsors/razonyang).
 
 <!--
-## Pinned Projects
+## Themes & Modules
 
-Please consider giving it a star ⭐ if you like the projects.
-
-[![HB Core Module](https://github-readme-stats.vercel.app/api/pin/?username=hbstack&repo=hb)](https://github.com/hbstack/hb)
-[![HB Starter Theme Template](https://github-readme-stats.vercel.app/api/pin/?username=hbstack&repo=theme)](https://github.com/hbstack/theme)
-[![HB Blog Module](https://github-readme-stats.vercel.app/api/pin/?username=hbstack&repo=blog)](https://github.com/hbstack/blog)
-[![HB Docs Module](https://github-readme-stats.vercel.app/api/pin/?username=hbstack&repo=docs)](https://github.com/hbstack/docs)
-[![HB Header Module](https://github-readme-stats.vercel.app/api/pin/?username=hbstack&repo=header)](https://github.com/hbstack/header)
-[![HB Footer Module](https://github-readme-stats.vercel.app/api/pin/?username=hbstack&repo=footer)](https://github.com/hbstack/footer)
+[![HB Starter Theme](https://github-stats.hugomods.com/api/pin/?username=hbstack&repo=theme)](https://github.com/hbstack/theme)
+[![HB Core Module](https://github-stats.hugomods.com/api/pin/?username=hbstack&repo=hb)](https://github.com/hbstack/hb)
+[![HB Docs Site](https://github-stats.hugomods.com/api/pin/?username=hbstack&repo=site)](https://hbstack.dev/)
+[![HB Start Page Theme](https://github-stats.hugomods.com/api/pin/?username=hbstack&repo=theme-start)](https://github.com/hbstack/theme-start)
+[![HB Blog Module](https://github-stats.hugomods.com/api/pin/?username=hbstack&repo=blog)](https://github.com/hbstack/blog)
+[![HB Docs Module](https://github-stats.hugomods.com/api/pin/?username=hbstack&repo=docs)](https://github.com/hbstack/docs)
+[![HB Header Module](https://github-stats.hugomods.com/api/pin/?username=hbstack&repo=header)](https://github.com/hbstack/header)
+[![HB Footer Module](https://github-stats.hugomods.com/api/pin/?username=hbstack&repo=footer)](https://github.com/hbstack/footer)
 -->
