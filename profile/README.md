@@ -11,7 +11,7 @@ HB is a modular framework built on top of Hugo and Bootstrap CSS, it ships with 
 
 ## Support
 
-- 📖 [Read the documentations](https://hbstack.dev/).
+- 📖 [Read the documentation](https://hbstack.dev/).
 - ❓ [Ask questions](https://github.com/orgs/hbstack/discussions/new?category=q-a).
 - 💡 [Share ideas](https://github.com/orgs/hbstack/discussions/new?category=ideas).
 - 🐛 [File issues or bugs](https://github.com/orgs/hbstack/discussions/new?category=issues-and-bugs).
